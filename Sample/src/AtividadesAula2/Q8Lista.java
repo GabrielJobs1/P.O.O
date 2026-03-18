@@ -1,3 +1,5 @@
+package AtividadesAula2;
+
 import java.util.Scanner;
 public class Q8Lista {
     public static void main(String[] args) {
