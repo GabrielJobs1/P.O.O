@@ -1,4 +1,4 @@
-package Tarefa0505;
+package TarefaLista05;
 
 public class Conta {
     private String Titular;
