@@ -1,6 +1,9 @@
+package Tarefas3103.Lista;
+
 import java.util.Scanner;
 
-public class Q2Lista {
+public class Q02
+{
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         System.out.println("Digite um numero inteiro:");

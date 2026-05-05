@@ -1,3 +1,5 @@
+package Lista1;
+
 import java.util.Scanner;
 public class Q7Lista {
     public static void main(String[] args) {
